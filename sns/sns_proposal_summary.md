@@ -7,7 +7,7 @@ Modclub’s mission is to support IC dApps by handling resource-intensive tasks 
 
 Modclub provides the IC with fast, accurate, and scalable solutions by leveraging advanced technologies and a global community-driven workforce. It is built fully on-chain, and the first SaaS model application on the IC.
 
-Modclub is a platform that offers a vital service to the ICP ecosystem by providing easy-to-integrate moderation and verification solutions. This enables dApps to focus on their core products while also creating earning opportunities for the ICP community.
+Modclub is a platform that offers a vital service to the IC ecosystem by providing easy-to-integrate moderation and verification solutions. This enables dApps to focus on their core products while also creating earning opportunities for the IC community.
 
 As Modclub transitions into a Decentralized Autonomous Organization (DAO), customers will have the option to pay for moderation and verification services using MOD tokens, while moderators will be rewarded with MOD tokens for their work.
 
@@ -20,8 +20,8 @@ Total token supply: 1 billion MOD tokens
 
 Initially distributed:
 
-- 42.65%: Reserved for the SNS treasury & under control of the Modclub DAO
-- 22.5%: To be distributed by the NNS run decentralization sale which includes the Neuron Fund
+- 42.65%: Reserved for the SNS treasury & under the control of the Modclub DAO
+- 22.5%: To be distributed by the NNS-run decentralization sale which includes the Neuron Fund
 - 16%: Modclub Team
 - 6.685%: Pre-seed 
 - 5.165%: Seed
@@ -34,7 +34,7 @@ For more information on the Modclub SNS please read both our [Whitepaper](https:
 
 # Decentralization Sale
 
-22.5% of the total supply of tokens are proposed to be distributed via an SNS decentralization sale. 
+22.5% of the total supply of tokens is proposed to be distributed via an SNS decentralization sale. 
 
 Sale participation parameters:
 
@@ -51,7 +51,7 @@ The sale is open to anyone outside of the United States of America. Participatio
 
 Modclub's tokenomics model was developed in collaboration with [Quantum Economics](https://e6p3u-6yaaa-aaaah-abkfq-cai.ic0.app/), a research department of [Bochsler Consulting](https://www.bochslerfinance.com/) and a partner of [Swiss Blockchain Labs](https://swissblockchainlabs.org/). We will be releasing our updated SNS Tokenomics paper later this week!
 
-Modclub will be open sourcing our code shortly. 
+Modclub will be open-sourcing our code shortly. 
 
 You can visit our newly branded landing page at https://modclub.ai/ 
 
