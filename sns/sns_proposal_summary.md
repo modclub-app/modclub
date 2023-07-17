@@ -47,6 +47,14 @@ Sale participation parameters:
 
 The sale is open to anyone outside of the United States of America. Participation is either via the launchpad in the NNS front end: https://nns.ic0.app/ or on the command line using [quill](https://wiki.internetcomputer.org/wiki/How-To:_Participate_in_the_SNS_decentralization_sale_via_quill).
 
+# Use of Funds
+
+The Modclub Foundation will submit quarterly proposals to withdraw from the treasury to pay for the development and expenses outlined below. 
+
+<img width="773" alt="image" src="https://github.com/modclub-app/modclub/assets/106404058/b88eeeb7-d47f-44c9-9c14-33902cc8b154">
+
+This graph represents the proposed distribution of funds for the first year.
+
 # Notes
 
 Modclub's tokenomics model was developed in collaboration with [Quantum Economics](https://e6p3u-6yaaa-aaaah-abkfq-cai.ic0.app/), a research department of [Bochsler Consulting](https://www.bochslerfinance.com/) and a partner of [Swiss Blockchain Labs](https://swissblockchainlabs.org/). We will be releasing our updated SNS Tokenomics paper later this week!
