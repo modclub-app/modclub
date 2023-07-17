@@ -51,7 +51,7 @@ The sale is open to anyone outside of the United States of America. Participatio
 
 The Modclub Foundation will submit quarterly proposals to withdraw from the treasury to pay for the development and expenses outlined below. 
 
-<img width="773" alt="image" src="https://github.com/modclub-app/modclub/assets/106404058/b88eeeb7-d47f-44c9-9c14-33902cc8b154">
+<img width="756" alt="image" src="https://github.com/modclub-app/modclub/assets/106404058/a4a28b11-de9d-448f-86f3-79d8b720c27b">
 
 This graph represents the proposed distribution of funds for the first year.
 
