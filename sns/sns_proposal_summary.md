@@ -47,6 +47,11 @@ Sale participation parameters:
 
 The sale is open to anyone outside of the United States of America. Participation is either via the launchpad in the NNS front end: https://nns.ic0.app/ or on the command line using [quill](https://wiki.internetcomputer.org/wiki/How-To:_Participate_in_the_SNS_decentralization_sale_via_quill).
 
+You can review [Modclubs SNS Configuration here.](https://docs.google.com/spreadsheets/d/175y0SuA6zDnGq4yFhl0AcHQr0-jVh11xjRsVIhDc8zc/edit?usp=sharing)
+
+![IMG_8017](https://github.com/modclub-app/modclub/assets/106404058/f9a2e57f-8a32-4f18-a2a7-e39a859f7332)
+
+
 # Use of Funds
 
 The Modclub Foundation will submit quarterly proposals to withdraw from the treasury to pay for the development and expenses outlined below. 
