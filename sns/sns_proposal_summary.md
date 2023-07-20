@@ -49,10 +49,11 @@ The sale is open to anyone outside of the United States of America. Participatio
 
 You can review [Modclubs SNS Configuration here.](https://docs.google.com/spreadsheets/d/175y0SuA6zDnGq4yFhl0AcHQr0-jVh11xjRsVIhDc8zc/edit?usp=sharing)
 
-<img width="532" alt="Screenshot 2023-07-19 at 12 47 24 PM" src="https://github.com/modclub-app/modclub/assets/106404058/a52564aa-4c7f-4c6c-bac2-40034146b0e4">
+
+<img width="640" alt="Screenshot 2023-07-19 at 9 08 32 PM" src="https://github.com/modclub-app/modclub/assets/106404058/6e34cb8d-4760-4723-baab-7681d2c9e2bb">
 
 
-<img width="509" alt="Screenshot 2023-07-19 at 12 47 40 PM" src="https://github.com/modclub-app/modclub/assets/106404058/943db978-d154-4ec4-819b-b05314653e05">
+<img width="608" alt="Screenshot 2023-07-19 at 9 08 37 PM" src="https://github.com/modclub-app/modclub/assets/106404058/c0df3e05-d63e-41bd-874e-6e7f57a0b098">
 
 
 
