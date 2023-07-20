@@ -67,7 +67,11 @@ This graph represents the proposed distribution of funds for the first year.
 
 # Notes
 
-Modclub's tokenomics model was developed in collaboration with [Quantum Economics](https://e6p3u-6yaaa-aaaah-abkfq-cai.ic0.app/), a research department of [Bochsler Consulting](https://www.bochslerfinance.com/) and a partner of [Swiss Blockchain Labs](https://swissblockchainlabs.org/). We will be releasing our updated SNS Tokenomics paper later this week!
+Modclub's tokenomics model was developed in collaboration with [Quantum Economics](https://e6p3u-6yaaa-aaaah-abkfq-cai.ic0.app/), a research department of [Bochsler Consulting](https://www.bochslerfinance.com/) and a partner of [Swiss Blockchain Labs](https://swissblockchainlabs.org/). 
+
+You can access the [Modclub SNS Whitepaper here](https://docsend.com/view/hdj9zkhnnbd3n2sy)
+
+You can access the [Modclub SNS Tokenomics paper here](https://docsend.com/view/ett88daeai2gfqxh)
 
 Modclub will be open-sourcing our code shortly. 
 
