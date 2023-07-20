@@ -36,7 +36,7 @@ For more information on the Modclub SNS please read both our [Whitepaper](https:
 
 22.5% of the total supply of tokens is proposed to be distributed via an SNS decentralization swap. 
 
-Swa[ participation parameters:
+Swap participation parameters:
 
 - Min participation: 1 ICP
 - Max participation: 150,000 ICP
