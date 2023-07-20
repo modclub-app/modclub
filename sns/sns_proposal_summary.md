@@ -21,7 +21,7 @@ Total token supply: 1 billion MOD tokens
 Initially distributed:
 
 - 42.65%: Reserved for the SNS reserve treasury & under the control of the Modclub DAO
-- 22.5%: To be distributed by the NNS-run decentralization sale which includes the Neuron Fund
+- 22.5%: To be distributed by the NNS-run decentralization swap which includes the Neuron Fund
 - 16%: Modclub Team
 - 6.685%: Pre-seed 
 - 5.165%: Seed
