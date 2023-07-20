@@ -32,11 +32,11 @@ Ledger transaction fee: 0.0001 MOD tokens
 
 For more information on the Modclub SNS please read both our [Whitepaper](https://docsend.com/view/hdj9zkhnnbd3n2sy) and our Tokenomics paper.
 
-# Decentralization Sale
+# Decentralization SNS Swap
 
-22.5% of the total supply of tokens is proposed to be distributed via an SNS decentralization sale. 
+22.5% of the total supply of tokens is proposed to be distributed via an SNS decentralization swap. 
 
-Sale participation parameters:
+Swa[ participation parameters:
 
 - Min participation: 1 ICP
 - Max participation: 150,000 ICP
