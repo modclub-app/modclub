@@ -65,6 +65,12 @@ The Modclub Foundation will submit quarterly proposals to withdraw from the trea
 
 This graph represents the proposed distribution of funds for the first year.
 
+# Source Code
+
+You can find the [modclub sdk here](https://github.com/modclub-app/sdk)
+
+Modclub will be open-sourcing our code shortly. 
+
 # Notes
 
 Modclub's tokenomics model was developed in collaboration with [Quantum Economics](https://e6p3u-6yaaa-aaaah-abkfq-cai.ic0.app/), a research department of [Bochsler Consulting](https://www.bochslerfinance.com/) and a partner of [Swiss Blockchain Labs](https://swissblockchainlabs.org/). 
@@ -72,8 +78,6 @@ Modclub's tokenomics model was developed in collaboration with [Quantum Economic
 You can access the [Modclub SNS Whitepaper here](https://docsend.com/view/hdj9zkhnnbd3n2sy)
 
 You can access the [Modclub SNS Tokenomics paper here](https://docsend.com/view/ett88daeai2gfqxh)
-
-Modclub will be open-sourcing our code shortly. 
 
 You can visit our newly branded landing page at https://modclub.ai/ 
 
