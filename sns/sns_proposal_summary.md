@@ -69,7 +69,7 @@ This graph represents the proposed distribution of funds for the first year.
 
 You can find the [modclub sdk here](https://github.com/modclub-app/sdk)
 
-Modclub will be open-sourcing our code shortly. 
+Modclub source code can be found [here](https://github.com/modclub-app/modclub_src). This is the main functionality, we are finalizing our wallet code and will release that soon.
 
 # Notes
 
