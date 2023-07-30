@@ -82,3 +82,7 @@ You can access the [Modclub SNS Tokenomics paper here](https://docsend.com/view/
 You can visit our newly branded landing page at https://modclub.ai/ 
 
 You can sign up as a moderator and test out our dApp here: https://modclub.app/
+
+# Disclaimer
+
+This swap is open to any persons or entities other than those who are citizens of, or reside or are located, incorporated or have a registered office in the United States of America or (i) any country embargoed by the government of Canada, the United States, the United Kingdom or the European Union or are a foreign person or entity blocked or denied by the Canadian, United States, the United Kingdom or any European Union government or (ii) a country which has been sanctioned by the United Nations, including without limitation Iran, Cuba, North Korea, Syria, Myanmar (Burma) and the regions of Crimea, Donetsk and Luhansk.
