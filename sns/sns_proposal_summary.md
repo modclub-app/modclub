@@ -53,7 +53,8 @@ You can review [Modclubs SNS Configuration here.](https://docs.google.com/spread
 <img width="640" alt="Screenshot 2023-07-19 at 9 08 32 PM" src="https://github.com/modclub-app/modclub/assets/106404058/6e34cb8d-4760-4723-baab-7681d2c9e2bb">
 
 
-<img width="608" alt="Screenshot 2023-07-19 at 9 08 37 PM" src="https://github.com/modclub-app/modclub/assets/106404058/c0df3e05-d63e-41bd-874e-6e7f57a0b098">
+<img width="613" alt="Screenshot 2023-07-30 at 8 11 19 PM" src="https://github.com/modclub-app/modclub/assets/106404058/0be02be8-2e02-4d06-9a13-957e6151ab30">
+
 
 
 
