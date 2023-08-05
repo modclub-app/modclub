@@ -42,7 +42,7 @@ Swap participation parameters:
 - Max participation: 150,000 ICP
 - Max to be raised: 1,250,000 ICP
 - Min to be raised: 650,000 ICP
-- From Neuron Fund: 400,000 ICP
+- From Neuron Fund: 372,793 ICP
 - Min participants: 300
 
 The sale is open to anyone outside of the United States of America. Participation is either via the launchpad in the NNS front end: https://nns.ic0.app/ or on the command line using [quill](https://wiki.internetcomputer.org/wiki/How-To:_Participate_in_the_SNS_decentralization_sale_via_quill).
