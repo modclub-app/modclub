@@ -32,7 +32,7 @@ After swap distribution:
 
 Ledger transaction fee: 0.0001 MOD tokens
 
-For more information on the Modclub SNS please read both our [Whitepaper](https://docsend.com/view/hdj9zkhnnbd3n2sy) and our [Tokenomics paper](https://docsend.com/view/ett88daeai2gfqxh) .
+For more information on the Modclub SNS please read both our [Whitepaper](https://docsend.com/view/hdj9zkhnnbd3n2sy) and our [Tokenomics paper](https://docsend.com/view/7sxwjz8be776m77q) .
 
 # Decentralization SNS Swap
 
