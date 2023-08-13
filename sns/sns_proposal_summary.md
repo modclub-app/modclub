@@ -32,7 +32,7 @@ After swap distribution:
 
 Ledger transaction fee: 0.0001 MOD tokens
 
-For more information on the Modclub SNS please read both our [Whitepaper](https://docsend.com/view/hdj9zkhnnbd3n2sy) and our [Tokenomics paper](https://docsend.com/view/7sxwjz8be776m77q) .
+For more information on the Modclub SNS please read both our [Whitepaper](https://docsend.com/view/kuxk6x5pghemyrje) .
 
 # Decentralization SNS Swap
 
@@ -78,10 +78,9 @@ Modclub source code can be found [here](https://github.com/modclub-app/modclub_s
 
 Modclub's tokenomics model was developed in collaboration with [Quantum Economics](https://e6p3u-6yaaa-aaaah-abkfq-cai.ic0.app/), a research department of [Bochsler Consulting](https://www.bochslerfinance.com/) and a partner of [Swiss Blockchain Labs](https://swissblockchainlabs.org/). 
 
-You can access the [Modclub SNS Whitepaper here](https://docsend.com/view/hdj9zkhnnbd3n2sy)
+You can access the [Modclub SNS Whitepaper here](https://docsend.com/view/kuxk6x5pghemyrje)
 
-You can access the [Modclub SNS Tokenomics paper here](https://docsend.com/view/ett88daeai2gfqxh)
-
+You can access the [Modclub SNS Tokenomics paper here](https://docsend.com/view/7sxwjz8be776m77q)
 You can visit our newly branded landing page at https://modclub.ai/ 
 
 You can sign up as a moderator and test out our dApp here: https://modclub.app/
