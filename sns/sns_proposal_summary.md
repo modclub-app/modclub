@@ -68,6 +68,10 @@ The Modclub Foundation will submit quarterly proposals to withdraw from the trea
 
 This graph represents the proposed distribution of funds for the first year.
 
+# Modclub Foundation Neuron
+The foundation will vote with this neuron. 
+`fd052a2a6648357c984cd8a04edcb9e34a48967a46f44db9264f5156d7e96c61`
+
 # Source Code
 
 You can find the [modclub sdk here](https://github.com/modclub-app/sdk)
